@@ -1,0 +1,6 @@
+data/Gavekal-China.pdf
+data/Global-Economic-Prospects-June-2022.pdf
+data/*
+terraform/LoadBalancerCode.txt
+.venv/*
+.DS_Store
